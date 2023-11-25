@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouli S</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on [Mern Stack Air Conditioner](https://github.com/MouliSri/Mern-Stack-Air-Conditioner-Backend)
 
